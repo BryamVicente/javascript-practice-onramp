@@ -18,4 +18,4 @@ function plantTrees(w, l, g) {
 	return m % g > 0 ? 0 : m / g;
 }
 
-console.log(plantTrees(3,3,3))
+console.log(plantTrees(3,4,5))
